@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily overlooked error in CSS: improper spacing within the `calc()` function. The `bug.css` file shows the incorrect usage, leading to unexpected layout behavior. The `bugSolution.css` file provides the corrected code with the proper spacing.
